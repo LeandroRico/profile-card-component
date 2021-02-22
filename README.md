@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+## Preview on GitHub Pages: [click here.](https://profile-card-component-theta-nine.vercel.app/ "click here.")
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
